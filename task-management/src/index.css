@@ -46,8 +46,9 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
-button:hover {
+.back-link:hover {
   border-color: #646cff;
+  text-decoration: underline;
 }
 button:focus,
 button:focus-visible {
@@ -65,4 +66,22 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.description {
+  background-color: #424242;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.back-link {
+  font-size: 0.85rem;
+  margin-top: 300px;
 }

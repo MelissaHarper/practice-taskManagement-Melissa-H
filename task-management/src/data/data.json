@@ -1,17 +1,17 @@
 [
 {
     "id": "1",
-    "title": "vacuum floors",
+    "title": "Vacuum Floors",
     "description": "Vacuum all floors in the house. Switch vacuum head's when moving from carpet to hardwood."
 },
 {
     "id": "2",
-    "title": "take out trash",
+    "title": "Take Out Trash",
     "description": "Gather trash from around the house and take it out to the bin."
 },
 {
     "id": "3",
-    "title": "wash dishes",
+    "title": "Wash Dishes",
     "description": "Rinse each dish before putting them in appropriate places in the dishwasher. If dishwasher is full, start the dishwasher."
 }
 ]
